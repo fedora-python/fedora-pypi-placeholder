@@ -11,7 +11,7 @@ that a project can use the subtable `tool.$NAME` if `pyproject.toml` if,
 and only if, they own the entry for `$NAME` in the Cheeseshop/PyPI.
 
 That's what this project is for.
-We own the entry for `fedora`, so we could use `tool.fedora` in .
+We own the entry for `fedora`, so we could use `tool.fedora` in `pyproject.toml`.
 
 ## python-fedora
 
